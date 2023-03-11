@@ -67,9 +67,8 @@ bindOptional f (Full x) = f x
 -- >>> Empty <+> Empty
 -- Empty
 (<+>) :: Optional a -> Optional a -> Optional a
-(<+>) (Full x) _ = Full x
-(<+>) Empty (Full x) = Full x
-(<+>) _ _ = Empty
+Full x <+> _ = Full x
+Empty <+> y = y
 
 -- | Replaces the Full and Empty constructors in an optional.
 --

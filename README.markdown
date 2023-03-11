@@ -207,26 +207,28 @@ step is to complete the exercises in `Course.Optional`.
 
 After this, we recommend the following progression of modules:
 
-* `Course.List`
-* `Course.Functor`
-* `Course.Applicative`
-* `Course.Monad`
-* `Course.FileIO`
-* `Course.State`
-* `Course.StateT`
-* `Course.Extend`
-* `Course.Comonad`
-* `Course.Contravariant`
-* `Course.Compose`
-* `Course.Traversable`
-* `Course.ListZipper`
-* `Course.Parser` *(see also `Course.Person` for the parsing rules)*
-* `Course.MoreParser`
-* `Course.JsonParser`
-* `Course.Interactive`
-* `Course.Anagrams`
-* `Course.FastAnagrams`
-* `Course.Cheque`
+- [x] `Course.Optional`
+- [ ] `Course.List`
+- [ ] `Course.Functor`
+- [ ] `Course.Applicative`
+- [ ] `Course.Monad`
+- [ ] `Course.FileIO`
+- [ ] `Course.State`
+- [ ] `Course.StateT`
+- [ ] `Course.Extend`
+- [ ] `Course.Comonad`
+- [ ] `Course.Contravariant`
+- [ ] `Course.Compose`
+- [ ] `Course.Traversable`
+- [ ] `Course.ListZipper`
+- [ ] `Course.Parser` *(see also `Course.Person` for the parsing rules)*
+- [ ] `Course.MoreParser`
+- [ ] `Course.JsonParser`
+- [ ] `Course.Interactive`
+- [ ] `Course.Anagrams`
+- [ ] `Course.FastAnagrams`
+- [ ] `Course.Cheque`
+
 
 During this progression, it is often the case that some exercises are abandoned
 due to time constraints and the benefit of completing some exercises over
